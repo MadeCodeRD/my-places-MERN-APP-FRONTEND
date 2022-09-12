@@ -1,0 +1,9 @@
+const IDENTIFIERS = {
+    CHANGE: 'CHANGE',
+    TOUCHED: 'TOUCHED',
+    INPUT_CHANGE: 'INPUT_CHANGE',
+    SET_DATA: 'SET_DATA'
+
+};
+
+export default IDENTIFIERS;
